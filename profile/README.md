@@ -1,12 +1,7 @@
-## Hi there 👋
+<img src="https://github.com/MOSERDesignSystem/.github/blob/main/assets/GitHub%20Banner.png?raw=true">
+<hr>
 
-<!--
+# MOSER: Modular Open Source Educational Robotics
+MOSER is an Open-Source Standard dedicated to decreasing the entry and maintenance cost of Robotics Education equipment, through the development of a shared design and system standard built upon an open-source 3D printable structure system and emphasizing the usage of readily-available hobby components.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Learn More about the MOSER Design System at https://moserdesign.org
